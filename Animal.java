@@ -1,6 +1,10 @@
 
 public class Animal {
 
+	public void test() {
+
+	}
+
 	public void play() {
 		System.out.println("¸Û¸Û");
 	}
